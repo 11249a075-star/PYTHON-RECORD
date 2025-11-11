@@ -1,2 +1,1 @@
-# PYTHON-RECORD
-python programs
+# PYTHON-LAB-RECORD
